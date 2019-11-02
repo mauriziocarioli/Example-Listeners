@@ -1,4 +1,4 @@
-package com.batigerteam.example_testing;
+package com.redhat.batigerteam.example_testing;
 
 import org.kie.api.event.process.ProcessVariableChangedEvent;
 
