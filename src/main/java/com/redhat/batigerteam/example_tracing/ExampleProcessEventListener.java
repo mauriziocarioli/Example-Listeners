@@ -1,8 +1,8 @@
-package com.redhat.batigerteam.example_testing;
+package com.redhat.batigerteam.example_tracing;
 
 import org.kie.api.event.process.ProcessVariableChangedEvent;
 
-public class ExampleProcessEventListener extends com.redhat.batigerteam.monitoring.CustomProcessEventListener {
+public class ExampleProcessEventListener extends com.redhat.batigerteam.tracing.CustomProcessEventListener {
 	
     /** 
      * @param event
